@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ng-unit-test-input-output';
+
+  onSayHello($event: string) {
+    
+  }
 }
